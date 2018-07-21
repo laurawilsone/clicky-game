@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "boxer.jpg"
+    },
+    {
+      "id": 2,
+      "image": "corgi.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "dachshund.jpg"
+    },
+    {
+      "id": 4,
+      "image": "dalmatian.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "doberman.jpg"
+    },
+    {
+      "id": 6,
+      "image": "golden.jpg"
+    },
+    {
+      "id": 7,
+      "image": "goldendoodle.jpg"
+    },
+    {
+      "id": 8,
+      "image": "happy-dog.jpg"
+    },
+    {
+      "id": 9,
+      "image": "lab.jpg"
+    },
+    {
+      "id": 10,
+      "image": "pitbull.jpg"
+    },
+    {
+      "id": 11,
+      "image": "pomeranian.jpg"
+    },
+    {
+      "id": 12,
+      "image": "pug.jpg"
+    }
+  ]

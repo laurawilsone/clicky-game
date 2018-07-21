@@ -1,0 +1,17 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 25px 0 50px;
+  justify-content: space-around;
+  align-content: flex-start;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+  float: left;
+  margin-right: 25px;
+  border-radius: 0px;
+}
